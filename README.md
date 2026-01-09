@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Christian Victoria  
+# Hi, I’m Christian Victoria  
 
-🎓 **Computer Science Major | Philosophy Minor @ University of Virginia (Class of 2026)**  
-💡 **Posse Scholar | Engineer | Researcher | Advocate**  
+ **Computer Science Major | Philosophy Minor @ University of Virginia (Class of 2026)**  
+ **Posse Scholar | Engineer | Researcher | Advocate**  
 
 ---
 
-## 🌐 About Me  
+## About Me  
 I’m passionate about **building technology that reflects human values**.  
 My academic and professional journey bridges the gap between **computing** and the **humanities**, blending:  
 - **Software Engineering & Data Science** – writing efficient, impactful code.  
@@ -14,7 +14,7 @@ My academic and professional journey bridges the gap between **computing** and t
 
 ---
 
-## 💻 Technical Background  
+## Technical Background  
 
 **Languages & Tools**  
 `Python` · `Java` · `C` · `JavaScript` · `Assembly` · `HTML/CSS` · `Matlab` · `R`  
@@ -30,14 +30,14 @@ Frameworks: `React Native` | `Git/GitHub` | `Figma` | `AutoCAD` | `SolidWorks` |
 
 ---
 
-## 📚 Research & Academic Interests  
+## Research & Academic Interests  
 - **Engineering Ethics & Education** – Research Assistant @ UVA SEAS, studying historical and contemporary approaches to building ethical engineers.  
 - **AI & Society** – Exploring the social impacts of machine learning, surveillance, and algorithmic bias.  
 - **Design for Sustainable World** – Applying computing to global challenges with a human-first perspective.  
 
 ---
 
-## 🌍 Leadership & Community  
+## Leadership & Community  
 - **Executive Secretary, NAACP @ UVA** – Advocated for policy and community initiatives at national conferences.  
 - **Afro–Latinx Student Organization** – Reactivated a dormant org; led 30+ cultural & political advocacy events.  
 - **Mentorship Programs (Engineering Council & Peer Mentoring)** – Supported 8+ first-year students through academic, social, and career development.  
@@ -45,7 +45,7 @@ Frameworks: `React Native` | `Git/GitHub` | `Figma` | `AutoCAD` | `SolidWorks` |
 
 ---
 
-## 🚀 Work & Professional Experience  
+## Work & Professional Experience  
 - **Contemplative Science Center (Program Development Assistant)** – Bridging tech, well-being, and student growth through program design and data-driven feedback.  
 - **UVA School of Engineering & Applied Sciences (Research/Teaching Assistant)** – Conducted research on engineering ethics and undergraduate character-building education.  
 - **Burns & McDonnell (Overhead Transmission CAD Intern)** – Produced technical schematics for transmission projects with multidisciplinary teams.  
@@ -53,18 +53,18 @@ Frameworks: `React Native` | `Git/GitHub` | `Figma` | `AutoCAD` | `SolidWorks` |
 
 ---
 
-## 🌟 Interests Outside of Tech  
+## Interests Outside of Tech  
 - **Creative**: Reading, writing, public speaking  
 - **Athletics**: Soccer, martial arts, weightlifting  
 - **Culture & Advocacy**: Multicultural event organizing, youth mentorship, political engagement  
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/christianvictoria7764b/details/experience/)  
 - [GitHub](https://github.com/Vchristian450)  
 - [Handshake](https://virginia.joinhandshake.com/profiles/ya86jy)  
 - **Email:** chri6tianvictoria@gmail.com  
 
 ---
-✨ *Exploring the intersection of technology, ethics, and culture — one project at a time.*
+*Exploring the intersection of technology, ethics, and culture — one project at a time.*
