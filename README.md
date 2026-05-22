@@ -64,7 +64,6 @@ Frameworks: `React Native` | `Git/GitHub` | `Figma` | `AutoCAD` | `SolidWorks` |
 - [LinkedIn](https://www.linkedin.com/in/christianvictoria7764b/details/experience/)  
 - [GitHub](https://github.com/Vchristian450)  
 - [Handshake](https://virginia.joinhandshake.com/profiles/ya86jy)  
-- **Email:** chri6tianvictoria@gmail.com  
 
 ---
 *Exploring the intersection of technology, ethics, and culture — one project at a time.*
