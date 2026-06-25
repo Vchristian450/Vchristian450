@@ -1,69 +1,39 @@
-# Hi, I’m Christian Victoria  
+# Hi, I’m Christian Victoria
 
- **Computer Science Major | Philosophy Minor @ University of Virginia (Class of 2026)**  
- **Posse Scholar | Engineer | Researcher | Advocate**  
+ **"First Generation In Everything That I Do"**  
+Hailing from Houston, TX, recipient of The Posse Foundation's 4 year, full tuition Posse Scholarship, and now alum of the University of Virginia's School of Engineering and Applied Science in Computer Science, I value and employ a holistic approach towards advocacy, community building, and mutual empowerment. As a first generation American, college-goer, graduate, engineer, political activist, researcher, etc., I understand that there is a greater world outside of my little bayou back home. And so, the mission is to grow, and experience, and help my fellow person.
 
----
+## What I'm Working On
 
-## About Me  
-I’m passionate about **building technology that reflects human values**.  
-My academic and professional journey bridges the gap between **computing** and the **humanities**, blending:  
-- **Software Engineering & Data Science** – writing efficient, impactful code.  
-- **Human-Centered Computing & AI Ethics** – questioning *why* and *for whom* we design technology.  
-- **Philosophy & Social Advocacy** – grounding technical innovation in ethics, culture, and human well-being.  
+**Research**  
+Victoria, Christian. *RichmondRedlined: "Repair," "Redevelopment," and Power in Richmond, Virginia Post-Redlining*. 2026. University of Virginia, BS thesis. *Libra*, doi.org/10.18130/vkr0-ay67.
 
----
+Victoria, Christian, and Bianca Linares. "RichmondRedlined: An Interactive Platform for Exploring the Effects of Redlining in Richmond." *Navigating Funding Instability: Resource Dependence in University Research Laboratories*, by Bianca Linares, 2026, University of Virginia, BS thesis, *Libra*, doi.org/10.18130/phe3-b496.
 
-## Technical Background  
+Research Assistant — UVA School of Engineering & Applied Sciences (SEAS)  
+Co-authoring a historical review tracing 400+ years of character education in universities, from religious moral instruction in colonial colleges to today's positive-psychology and strengths-based approaches, to inform how engineering programs can effectively build character and ethical reasoning in students.
 
-**Languages & Tools**  
-`Python` · `Java` · `C` · `JavaScript` · `Assembly` · `HTML/CSS` · `Matlab` · `R`  
-Frameworks: `React Native` | `Git/GitHub` | `Figma` | `AutoCAD` | `SolidWorks` | `Fusion360`  
+## Technical Background
 
-**Relevant Coursework**  
-- Data Structures & Algorithms I-II  
-- Computer Systems & Organization I-II  
-- Software Development Essentials  
-- Mobile Application Development  
-- Human-Centered Computing for Digital Well-Being  
-- Probability, Linear Algebra, & From Data to Knowledge  
+**Languages:** JavaScript · TypeScript · Python · Java · C · Assembly · HTML/CSS · MATLAB · R
 
----
+**Frameworks & Tools:** React · Node.js · Django · Tailwind CSS · Vite · REST APIs · Git/GitHub
 
-## Research & Academic Interests  
-- **Engineering Ethics & Education** – Research Assistant @ UVA SEAS, studying historical and contemporary approaches to building ethical engineers.  
-- **AI & Society** – Exploring the social impacts of machine learning, surveillance, and algorithmic bias.  
-- **Design for Sustainable World** – Applying computing to global challenges with a human-first perspective.  
-
----
 
 ## Leadership & Community  
-- **Executive Secretary, NAACP @ UVA** – Advocated for policy and community initiatives at national conferences.  
-- **Afro–Latinx Student Organization** – Reactivated a dormant org; led 30+ cultural & political advocacy events.  
-- **Mentorship Programs (Engineering Council & Peer Mentoring)** – Supported 8+ first-year students through academic, social, and career development.  
-- **NSBE & SHPE Member** – Building networks and uplifting underrepresented voices in STEM.  
+**State Secretary, NAACP Virginia State Conference Youth & College Division**  
+Coordinating communications and advocacy across 20+ NAACP college chapters in Virginia, organizing legislative education efforts that reach 1,000+ youth members statewide.
 
----
+**Executive Social Outreach Officer, Afro-Latinx Student Organization (UVA)**  
+Reactivated a dormant multicultural organization after a multi-year hiatus, leading 30+ cultural and political advocacy events and building partnerships with 15+ student organizations and community groups.
 
-## Work & Professional Experience  
-- **Contemplative Science Center (Program Development Assistant)** – Bridging tech, well-being, and student growth through program design and data-driven feedback.  
-- **UVA School of Engineering & Applied Sciences (Research/Teaching Assistant)** – Conducted research on engineering ethics and undergraduate character-building education.  
-- **Burns & McDonnell (Overhead Transmission CAD Intern)** – Produced technical schematics for transmission projects with multidisciplinary teams.  
-- **Solar Car Team (Chassis Engineer)** – Applied CAD & stress analysis to build efficient, competition-ready designs.  
+**Mentor, Posse Mentorship Program / Peer Mentoring / Engineering Student Council**  
+Supporting first-year and underrepresented students through academic, social, and career development across multiple university mentorship programs.
 
----
-
-## Interests Outside of Tech  
-- **Creative**: Reading, writing, public speaking  
-- **Athletics**: Soccer, martial arts, weightlifting  
-- **Culture & Advocacy**: Multicultural event organizing, youth mentorship, political engagement  
-
----
+**Member, NSBE & SHPE**  
+Building community and professional networks with underrepresented students in STEM.
 
 ## Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/christianvictoria7764b/details/experience/)  
-- [GitHub](https://github.com/Vchristian450)  
-- [Handshake](https://virginia.joinhandshake.com/profiles/ya86jy)  
-
----
-*Exploring the intersection of technology, ethics, and culture — one project at a time.*
+[LinkedIn](https://www.linkedin.com/in/christianvictoria7764b/details/experience/)  
+[GitHub](https://github.com/Vchristian450)  
+[Handshake](https://virginia.joinhandshake.com/profiles/ya86jy)  
